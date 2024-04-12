@@ -1,0 +1,15 @@
+{
+    "name": "roman/hw-lrv",
+    "description": "install composer for hw-lrv",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Roman"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
